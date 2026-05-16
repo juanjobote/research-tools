@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20233347.svg)](https://doi.org/10.5281/zenodo.20233347)
+
 # OER Analytics
 
 This module contains analytical tools for studying the dissemination, usage, and circulation of Open Educational Resources (OERs) in digital repositories.
