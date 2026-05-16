@@ -15,7 +15,8 @@ The tools included in this directory are designed to:
 - analyse OER usage metrics (downloads, views)  
 - calculate efficiency indicators (e.g. downloads per resource, downloads per month)  
 - examine multilingual dissemination patterns  
-- identify high-performing resources and long-tail distributions  
+- identify high-performing resources and long-tail distributions
+- generate scenario-based projections of future OER downloads
 - support the interpretation of knowledge circulation in open repositories  
 
 ## Analytical Focus
@@ -25,7 +26,8 @@ This module is particularly oriented towards:
 - multilingual OER dissemination  
 - usage-based evaluation of educational resources  
 - patterns of visibility and access in digital repositories  
-- relationships between content type and user interaction  
+- relationships between content type and user interaction
+- time-normalised evaluation of OER performance
 
 ## Structure
 
@@ -33,7 +35,7 @@ This directory may include:
 
 - data analysis scripts (Python or R)  
 - notebooks for exploratory analysis  
-- scripts for aggregation and visualisation  
+- scripts for aggregation, visualisation, and projection modelling
 - supporting documentation  
 
 ## Reproducibility
